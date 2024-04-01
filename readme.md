@@ -1,1 +1,3 @@
 # Simon Game
+
+Play Simon Game for sharping your memory....
